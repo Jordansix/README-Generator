@@ -63,7 +63,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "List some cool features abpout this project here",
+        message: "List some cool features about this project here",
         name: "features",
     }
 
