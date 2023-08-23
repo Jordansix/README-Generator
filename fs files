@@ -1,0 +1,9 @@
+const fs = require('fs');
+
+fs.readFile('data.csv', 'utf8', (error, data) =>
+  error ? console.error(error) : console.log(data)
+);
+
+// fs.writeFile('log.txt', process.argv[2], (err) =>
+//   err ? console.error(err) : console.log('Success!')
+// );
