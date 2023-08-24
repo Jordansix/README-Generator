@@ -2,7 +2,7 @@
     by Jordan Sandoval Victoria
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  Assignments description 
+  assignment descriptions
   ## Deployed Application URL
   undefined
   ## Screenshot
@@ -15,7 +15,7 @@
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  Cool features here
+  Cool features listed here
   ## Title
   README Generator
   ## Languages & Dependencies
@@ -25,7 +25,7 @@
   ## Contributors
   N/A
   ## Testing
-  you can run test by running it into the terminal with npm test
+  to run test you can input npm test 
   ## Questions
-  Please send your questions [here](mailto:Jvictoria2484@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Jordansix](https://github.com/Jordansix).
+  Please send your questions [here](mailto:jvictoria2484@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Jordansix](https://github.com/Jordansix).
   
