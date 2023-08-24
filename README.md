@@ -15,7 +15,7 @@
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  Cool features listed here
+  cool features here
   ## Title
   README Generator
   ## Languages & Dependencies
@@ -25,7 +25,7 @@
   ## Contributors
   N/A
   ## Testing
-  to run test you can input npm test 
+  for running test you would input npm test
   ## Questions
-  Please send your questions [here](mailto:jvictoria2484@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Jordansix](https://github.com/Jordansix).
+  Please send your questions [here](mailto:Jvictoria2484@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Jordansix](https://github.com/Jordansix).
   
